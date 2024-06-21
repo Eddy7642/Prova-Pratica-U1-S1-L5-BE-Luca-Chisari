@@ -1,0 +1,14 @@
+C:\Users\lucac\OneDrive\Desktop\Prova Pratica U1 S1 L5 BE Luca Chisari\CalcoloTasse\Calcolo Tasse\bin\Debug\net8.0\Calcolo Tasse.exe
+C:\Users\lucac\OneDrive\Desktop\Prova Pratica U1 S1 L5 BE Luca Chisari\CalcoloTasse\Calcolo Tasse\bin\Debug\net8.0\Calcolo Tasse.deps.json
+C:\Users\lucac\OneDrive\Desktop\Prova Pratica U1 S1 L5 BE Luca Chisari\CalcoloTasse\Calcolo Tasse\bin\Debug\net8.0\Calcolo Tasse.runtimeconfig.json
+C:\Users\lucac\OneDrive\Desktop\Prova Pratica U1 S1 L5 BE Luca Chisari\CalcoloTasse\Calcolo Tasse\bin\Debug\net8.0\Calcolo Tasse.dll
+C:\Users\lucac\OneDrive\Desktop\Prova Pratica U1 S1 L5 BE Luca Chisari\CalcoloTasse\Calcolo Tasse\bin\Debug\net8.0\Calcolo Tasse.pdb
+C:\Users\lucac\OneDrive\Desktop\Prova Pratica U1 S1 L5 BE Luca Chisari\CalcoloTasse\Calcolo Tasse\obj\Debug\net8.0\Calcolo Tasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucac\OneDrive\Desktop\Prova Pratica U1 S1 L5 BE Luca Chisari\CalcoloTasse\Calcolo Tasse\obj\Debug\net8.0\Calcolo Tasse.AssemblyInfoInputs.cache
+C:\Users\lucac\OneDrive\Desktop\Prova Pratica U1 S1 L5 BE Luca Chisari\CalcoloTasse\Calcolo Tasse\obj\Debug\net8.0\Calcolo Tasse.AssemblyInfo.cs
+C:\Users\lucac\OneDrive\Desktop\Prova Pratica U1 S1 L5 BE Luca Chisari\CalcoloTasse\Calcolo Tasse\obj\Debug\net8.0\Calcolo Tasse.csproj.CoreCompileInputs.cache
+C:\Users\lucac\OneDrive\Desktop\Prova Pratica U1 S1 L5 BE Luca Chisari\CalcoloTasse\Calcolo Tasse\obj\Debug\net8.0\Calcolo Tasse.dll
+C:\Users\lucac\OneDrive\Desktop\Prova Pratica U1 S1 L5 BE Luca Chisari\CalcoloTasse\Calcolo Tasse\obj\Debug\net8.0\refint\Calcolo Tasse.dll
+C:\Users\lucac\OneDrive\Desktop\Prova Pratica U1 S1 L5 BE Luca Chisari\CalcoloTasse\Calcolo Tasse\obj\Debug\net8.0\Calcolo Tasse.pdb
+C:\Users\lucac\OneDrive\Desktop\Prova Pratica U1 S1 L5 BE Luca Chisari\CalcoloTasse\Calcolo Tasse\obj\Debug\net8.0\Calcolo Tasse.genruntimeconfig.cache
+C:\Users\lucac\OneDrive\Desktop\Prova Pratica U1 S1 L5 BE Luca Chisari\CalcoloTasse\Calcolo Tasse\obj\Debug\net8.0\ref\Calcolo Tasse.dll
